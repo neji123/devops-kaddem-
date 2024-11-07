@@ -18,6 +18,8 @@ public class Departement implements Serializable{
     private Set<Etudiant> etudiants;
     public Departement() {
         // TODO Auto-generated constructor stub
+                // TODO Auto-generated constructor stub
+
     }
 
     public Departement(String nomDepart) {
